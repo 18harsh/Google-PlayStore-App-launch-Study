@@ -1,3 +1,5 @@
+note:Run the firstwindow.py script to get started
+
 # Google-PlayStore-App-launch-Study
 A leading software development and distribution firm ,that helps individuals /Firms in
 designing and launching comercially viable mobile apps has conducted a survey of the
