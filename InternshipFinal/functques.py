@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  3 14:34:15 2020
 
-@author: reube
-"""
 
 # -*- coding: utf-8 -*-
 """
