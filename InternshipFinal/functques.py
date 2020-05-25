@@ -24,6 +24,7 @@ from matplotlib.backend_bases import key_press_handler
 from matplotlib.figure import Figure
 import matplotlib.cm as cm
 from collections import OrderedDict
+from tkinter import ttk
 
 
 global screen
