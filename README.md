@@ -64,16 +64,34 @@ something that they might have not even thought of.
 
               Important Instructions
 1 ) The Complete design has to be GUI based.
+
 2) The application has to be Simple to use and powerful at the same time.
+
 3) The colour combination and layout designing has to be soothing,
+
 4) It should cover all the requirements mentioned in the requirement
 specifications.
+
 5) it should generate non ambigous results.
+
 6) any additional feature and insght is highly appreciated.
+
 7) Exhaustive use of data visualization tools is expected.
+
 8) If any assumptions are made or formulae are used ,they have to be
 specified explicitly.
+
 9) if any regression methods are used, their accuracy has to be calculated
 using some metrics.
+
 10) Validation are absolutely necessary at all possible places in the
 design.
+
+#Images
+![](Screenshots/2020-06-23.png)
+![](Screenshots/2020-06-23%20(1).png)
+![](Screenshots/2020-06-23%20(2).png)
+![](Screenshots/2020-06-23%20(3).png)
+![](Screenshots/2020-06-23%20(4).png)
+![](Screenshots/2020-06-23%20(5).png)
+![](Screenshots/2020-06-23%20(6).png)
