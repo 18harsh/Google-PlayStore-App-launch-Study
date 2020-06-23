@@ -107,7 +107,7 @@ def functq1():
     
     big_frame = Frame(screen,width='1010',height=750)
     big_frame.place(x=10,y=60)
-    screen.iconbitmap(r" google.ico")
+    screen.iconbitmap(r"google.ico")
     
     w=1000
     h=900
@@ -120,7 +120,7 @@ def functq1():
     
     
     df = pd.DataFrame()
-    df = pd.read_csv(" App-data.csv")
+    df = pd.read_csv("App-data.csv")
     # dict1={}
     # dict1=pd.value_counts(df['Category'])
     
